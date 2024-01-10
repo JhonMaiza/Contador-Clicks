@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <div className='titulo'>
-        Contador de Clicks
+        Contador de Clicks.
       </div>
       <div className='logo-contenedor'>
         <img 
