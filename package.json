@@ -2,6 +2,7 @@
   "name": "contador-de-clicks",
   "version": "0.1.0",
   "private": true,
+  "homepages": "https://jhonmaiza.github.io/Contador-Clicks/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
